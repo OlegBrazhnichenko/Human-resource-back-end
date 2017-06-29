@@ -28,8 +28,9 @@ sudo phpenmod mbstring
 sudo systemctl restart apache2
 ```
 ### 5. Create database for your laravel project
-Open your browser and type http://localhost/phpMyAdmin/
-Then type your login (default: root) and password that you set up in previous steps
+Open your browser and type http://localhost/phpMyAdmin/.
+Then type your login (default: root) and password that you set up in previous steps.
+Click "create DB" button. Type name and click "create".
 ### 6. Install composer
 Firstly we have to make sure that all dependencies for composer are already installed
 ```
