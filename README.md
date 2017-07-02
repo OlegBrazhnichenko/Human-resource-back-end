@@ -98,7 +98,7 @@ DB_PASSWORD=your password (if no password just live empty)
 Next step is to create key for your project
 You can simply do it with
 ```
-sudo composer run-script post-root-package-install
+sudo composer run-script post-create-project-cmd
 ```
 ### 9. Migrate your database
 In your project directory run
